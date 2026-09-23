@@ -1,0 +1,110 @@
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sweet Crumbs Bakery | Products</title>
+</head>
+<body>
+ 
+<header>
+<h1>Our Products</h1>
+<nav>
+<a href="index.html">Home</a>
+<a href="products.html">Products</a>
+<a href="about.html">About</a>
+<a href="contact.html">Contact</a>
+</nav>
+</header>
+ 
+<section>
+<h2>Breads</h2>
+<p>
+Fresh artisan loaves baked daily, including sourdough, wheat, and
+sandwich breads.
+</p>
+<p>Price Range: $4 - $10</p>
+</section>
+ 
+<section>
+<h2>Pastries</h2>
+<p>
+Croissants, muffins, danishes, cinnamon rolls, and seasonal favorites.
+</p>
+<p>Price Range: $2 - $6</p>
+</section>
+ 
+<section>
+<h2>Cakes</h2>
+<p>
+Custom celebration cakes, birthday cakes, and specialty desserts made
+to order.
+</p>
+<p>Price Range: $25 - $100+</p>
+</section>
+ 
+<footer>
+<p>Call or visit us to place an order.</p>
+</footer>
+ 
+</body>
+</html>
+
+about.html
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sweet Crumbs Bakery | About</title>
+</head>
+<body>
+ 
+<header>
+<h1>About Sweet Crumbs Bakery</h1>
+<nav>
+<a href="index.html">Home</a>
+<a href="products.html">Products</a>
+<a href="about.html">About</a>
+<a href="contact.html">Contact</a>
+</nav>
+</header>
+ 
+<section>
+<h2>Our Story</h2>
+<p>
+Sweet Crumbs Bakery started with a simple goal: bring handcrafted baked
+goods and a sense of community to our neighborhood. What began as a
+family dream has grown into a local gathering place for fresh bread,
+pastries, and celebrations.
+</p>
+</section>
+ 
+<section>
+<h2>Our Sourcing Philosophy</h2>
+<p>
+We believe great baking starts with great ingredients. Whenever
+possible, we source fresh dairy, eggs, fruits, and grains from trusted
+local suppliers to ensure quality and flavor.
+</p>
+</section>
+ 
+<section>
+<h2>Meet Our Team</h2>
+ 
+<h3>Emma - Head Baker</h3>
+<p>
+Specializes in artisan breads and seasonal recipes.
+</p>
+ 
+<h3>Lucas - Pastry Chef</h3>
+<p>
+Creates our signature pastries and sweet treats.
+</p>
+ 
+<h3>Sophia - Customer Care</h3>
+<p>
+Helps customers with orders, events, and special requests.
+</p>
+</section>
+ 
+</body>
+</html>
